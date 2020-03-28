@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "HelloWorld"
+		},
+		{
+			"path": "Test"
+		},
+		{
+			"path": "Symbols"
+		}
+	],
+	"settings": {
+		"al.packageCachePath": "../Symbols/.alpackages"
+	}
+}
